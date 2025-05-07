@@ -1,4 +1,4 @@
-![2c-rarp c](https://github.com/user-attachments/assets/f7c6efbf-dc71-4ece-a137-b98e006b1127)![2c-apr c](https://github.com/user-attachments/assets/5ab24ef1-029e-4764-989d-b08bf1e7aa03)# 2c.SIMULATING ARP /RARP PROTOCOLS
+## 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
